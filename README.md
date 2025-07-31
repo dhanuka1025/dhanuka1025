@@ -62,12 +62,12 @@
 ### 📌 **Fitness CRM Platform**
 A comprehensive dashboard for managing employees, workout plans, analytics, and reports.  
 🔧 _React, Spring Boot, MySQL, MUI_  
-🔗 [View on GitHub](https://github.com/your-username/fitness-crm)
+🔗 [View on GitHub](https://github.com/dhanuka1025/fitness-crm)
 
 ### 📌 **Clothify – E-commerce Store**
 Clothing store app with category filters, search, authentication, and cart functionality.  
 🛒 _React, Spring Boot, PostgreSQL, JWT_  
-🔗 [View on GitHub](https://github.com/your-username/clothify)
+🔗 [View on GitHub](https://github.com/dhanuka1025/clothify)
 
 ---
 
