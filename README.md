@@ -7,14 +7,14 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 I'm a [Your Degree or Field] graduate
-- 🔭 Currently working on: **A Fitness CRM** with React & Spring Boot
-- 💡 Exploring Redux, GraphQL, and scalable backend systems
-- 🎯 Goal: Build clean, performant apps with great user experience
+- 🎓 I'm a Software Engineering undergraduate  
+- 🔭 Currently building: **A Fitness CRM** using React & Spring Boot  
+- 💡 Exploring **Redux**, **GraphQL**, and scalable **backend architectures**  
+- 🎯 Goal: Build clean, scalable, and performant apps with exceptional UX  
 - 📬 Reach me at:  
-  [![Email](https://img.shields.io/badge/email-dhanukapulsara%40example.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dhanukapulsara@example.com)
-  [![LinkedIn](https://img.shields.io/badge/linkedin-Dhanuka%20Pulsara-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-profile)
-  [![Portfolio](https://img.shields.io/badge/portfolio-visit-orange?style=flat-square&logo=Firefox)](https://your-portfolio.com)
+  [![Email](https://img.shields.io/badge/email-dhanukapulsara%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dhanukapulsara@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-Dhanuka%20Pulsara-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dhanuka-pulsara)
+  [![Portfolio](https://img.shields.io/badge/portfolio-visit-orange?style=flat-square&logo=Firefox)](https://dhanuka.vercel.app)
 
 ---
 
@@ -51,23 +51,21 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhanuka1025&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanuka1025&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
 ## 🧪 Featured Projects
 
-### 📌 **Fitness CRM Platform**
-A comprehensive dashboard for managing employees, workout plans, analytics, and reports.  
-🔧 _React, Spring Boot, MySQL, MUI_  
-🔗 [View on GitHub](https://github.com/dhanuka1025/fitness-crm)
+### 📌 [Fitness CRM Platform](https://github.com/dhanuka1025/fitness-crm)
+A comprehensive dashboard for managing clients, workout plans, analytics, and reports.  
+🔧 _React, Spring Boot, MySQL, MUI_
 
-### 📌 **Clothify – E-commerce Store**
-Clothing store app with category filters, search, authentication, and cart functionality.  
-🛒 _React, Spring Boot, PostgreSQL, JWT_  
-🔗 [View on GitHub](https://github.com/dhanuka1025/clothify)
+### 📌 [Clothify – E-commerce Store](https://github.com/dhanuka1025/clothify)  
+Clothing store app with category filters, product search, JWT authentication, and cart functionality.  
+🛒 _React, Spring Boot, PostgreSQL_
 
 ---
 
@@ -75,6 +73,5 @@ Clothing store app with category filters, search, authentication, and cart funct
   🔗 <strong>Let’s connect and create something awesome!</strong>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,java,spring,js,html,css,mysql,mongodb,git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=react,java,spring,js,html,css,mysql,postgresql,mongodb,git,github,docker" />
 </p>
-
